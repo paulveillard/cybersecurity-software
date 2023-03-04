@@ -7,7 +7,7 @@
 
 ## Types of Software
 
-[software-definition](https://github.com/paulveillard/cybersecurity-software/blob/main/img/software-definition.png)
+![software-definition](https://github.com/paulveillard/cybersecurity-software/blob/main/img/software-definition.png)
 
 ### System Software
 
