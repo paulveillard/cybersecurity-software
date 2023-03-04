@@ -6,3 +6,9 @@
 
 
 ## Types of Software
+
+### System Software
+
+### Programming Software
+
+### Application Software
