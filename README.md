@@ -15,6 +15,8 @@ An ongoing & curated collection of awesome software best practices and technique
 
 ### System Software
 
+Device software acts as a basis for software applications. System software includes application drivers, compilers, disc formatters, text editors, operating systems, and utilities that allow the machine to operate more effectively. It is also responsible for managing components of hardware and providing basic functions that are non-task-specific. Typically, the machine software is written in the programming language of C.
+
 ### Programming Software
 
 ### Application Software
