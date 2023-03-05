@@ -22,5 +22,7 @@ Programming software is a series of tools for writing programs to support develo
 - Compilers, linkers, debuggers, interpreters and text editors are the numerous applications that are available.
 
 ### Application Software
+Technology for apps is designed to execute those functions. Office suites, gaming applications, computer systems and educational apps are examples of application software. Software for applications may be a single program or a series of tiny programs. This type of program is commonly known by users as software.
 
 ### Malicious Software
+Malicious software is purposely created. Harm is also caused unknown to consumers who have installed malware unintentionally because this kind of program typically works in secrecy.
