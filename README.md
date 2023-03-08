@@ -12,16 +12,16 @@ An ongoing & curated collection of awesome software best practices and technique
 
 ![software-definition](https://github.com/paulveillard/cybersecurity-software/blob/main/img/software-definition.png)
 
-### System Software
+### `System Software`
 
 Device software acts as a basis for software applications. System software includes application drivers, compilers, disc formatters, text editors, operating systems, and utilities that allow the machine to operate more effectively. It is also responsible for managing components of hardware and providing basic functions that are non-task-specific. Typically, the machine software is written in the programming language of C.
 
-### Programming Software
+### `Programming Software`
 Programming software is a series of tools for writing programs to support developers. 
 - Compilers, linkers, debuggers, interpreters and text editors are the numerous applications that are available.
 
-### Application Software
+### `Application Software`
 Technology for apps is designed to execute those functions. Office suites, gaming applications, computer systems and educational apps are examples of application software. Software for applications may be a single program or a series of tiny programs. This type of program is commonly known by users as software.
 
-### Malicious Software
+### `Malicious Software`
 Malicious software is purposely created. Harm is also caused unknown to consumers who have installed malware unintentionally because this kind of program typically works in secrecy.
